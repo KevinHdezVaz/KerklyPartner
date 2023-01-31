@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "335079542736",
+    "project_id": "fir-partnet",
+    "storage_bucket": "fir-partnet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335079542736:android:c72e6ad3b783a7bab9b3d5",
+        "android_client_info": {
+          "package_name": "com.kerkly.partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335079542736-v4q9dt19mdmio0heutnm25pk3u6lklli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kerkly.partner",
+            "certificate_hash": "711260d5b8d522722dc3980341e52a7d0e1b390f"
+          }
+        },
+        {
+          "client_id": "335079542736-c9so3dm1vuumf78asd7jt4753ebs5url.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu1FEZBR5QJz_IOpyUl2TzCnwPNbaZCZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335079542736-c9so3dm1vuumf78asd7jt4753ebs5url.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
